@@ -32,3 +32,4 @@ if "Rijon" in txt2:
 txt3= "My another name is Alif"
 print("Alif" not in txt3)
 print ("try gitHUb")
+print("update try gitHub")
